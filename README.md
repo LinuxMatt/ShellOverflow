@@ -7,4 +7,5 @@ http://old-releases.ubuntu.com/ubuntu/pool/main/g/gnome-session/gnome-session_2.
 
 00_new_session_configuration_system.patch
 
+If patch uses gconf, port it to gsettings
 
